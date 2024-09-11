@@ -1,9 +1,4 @@
-# Hi, I'm Christian Anibal Mijangos! 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ChristianMijangos-blue)](https://linkedin.com/in/christianmijangos5454)
-[![GitHub](https://img.shields.io/badge/GitHub-HeyChriss-lightgrey)](https://github.com/HeyChriss)
-[![Portfolio](https://img.shields.io/badge/Portfolio-heychriss.com-ff69b4)](https://heychriss.com)
-
+# Hi, I'm Chris 👋
 ## About Me
 
 I am a passionate Software Engineering student at **Brigham Young University - Idaho**, specializing in **Software Design** and **Software Quality Assurance**. I am skilled in developing scalable software solutions, automating processes, and creating engaging user experiences.
