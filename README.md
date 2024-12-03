@@ -1,14 +1,18 @@
 # Hi, I'm Chris 👋
 ## About Me
 
-I am a passionate Software Engineering student at **Brigham Young University - Idaho**, specializing in **Software Design** and **Software Quality Assurance**. I am skilled in developing scalable software solutions, automating processes, and creating engaging user experiences.
+I am a passionate Software Engineering student at **Brigham Young University - Idaho**, specializing in **Software Design** and **Machine Learning and AI**. I am skilled in developing scalable software solutions, automating processes, and creating engaging user experiences.
 
 - 🎓 **Education**: Bachelor of Science in Computer Software Engineering (Expected Graduation: April 2025)
 - 💻 **Minor**: Computer Information Technology
 - 🎯 **GPA**: 3.77
-- 🚀 **Interests**: Generative AI, Software Development, Automation, Web Development
+- 🚀 **Interests**: Generative AI, Software Development, Automation, Web Development, Deep Learning, Neural Networks
 
 ## Experience
+
+### AI Assistant Developer Intern | Your Life Legacy
+- Advised in the development and deployment of a TTS AI assistant to support company processes and increase productivity by 40%.
+- Aimed to synthesizing the AI assistant with existing systems and platforms to automate tasks for 20 employees.
 
 ### Process Automation Analyst | Brigham Young University - Idaho
 - Designed and implemented API Management solutions, integrating enterprise systems to enhance productivity for over 200 IT employees.
@@ -22,10 +26,10 @@ I am a passionate Software Engineering student at **Brigham Young University - I
 
 - **Programming Languages**: Python, C++, C#
 - **Frameworks and Tools**: Hugging Face, OpenAI, RAG, PyTorch, Transformers
-- **Software Design Principles**: Cohesion and Coupling, Scalable Code Development
+- **Software Design Principles**: Abstraction, Polymorphism, Inheritance, Scalable Code Development
 - **Version Control**: Git
 - **Cloud Platforms**: AWS (Amazon Web Services)
-- **Automation & Integration**: iPaaS, API Management
+- **Automation & Integration**: iPaaS, API Management, REST API's 
 
 ## Projects
 
