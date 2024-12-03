@@ -1,5 +1,5 @@
 # Hi, I'm Chris 👋
-## About Me
+## 🚀 About Me
 
 I am a passionate Software Engineering student at **Brigham Young University - Idaho**, specializing in **Software Design** and **Machine Learning and AI**. I am skilled in developing scalable software solutions, automating processes, and creating engaging user experiences.
 
@@ -8,7 +8,14 @@ I am a passionate Software Engineering student at **Brigham Young University - I
 - 🎯 **GPA**: 3.77
 - 🚀 **Interests**: Generative AI, Software Development, Automation, Web Development, Deep Learning, Neural Networks
 
-## Experience
+- I'm a passionate developer in artificial intelligence and data science. My focus areas in AI include but are not limited to:
+- 🖼️ Computer Vision & Image Processing
+- 🗣️ Natural Language Processing
+- 🎮 RAG models and Agents
+- 🤖 Multi-modal AI and Chatbots
+- 🧠 Machine Learning and Deep Learning
+
+## 🛠️ Experience
 
 ### AI Assistant Developer Intern | Your Life Legacy
 - Advised in the development and deployment of a TTS AI assistant to support company processes and increase productivity by 40%.
@@ -22,16 +29,17 @@ I am a passionate Software Engineering student at **Brigham Young University - I
 - Managed 10 to 15 incidents per day during a migration from VMware to Hyper.
 - Monitored system activities for outages and optimized performance using tools like Meraki, AKIPS, and AWS.
 
-## Skills
+## 💻 Skills
 
 - **Programming Languages**: Python, C++, C#
-- **Frameworks and Tools**: Hugging Face, OpenAI, RAG, PyTorch, Transformers
+- **AI/ML Frameworks**: PyTorch, TensorFlow, Transformers, LangChain, OpenAI GPT, LangGraph, Hugging Face
 - **Software Design Principles**: Abstraction, Polymorphism, Inheritance, Scalable Code Development
 - **Version Control**: Git
 - **Cloud Platforms**: AWS (Amazon Web Services)
-- **Automation & Integration**: iPaaS, API Management, REST API's 
+- **Automation & Integration**: iPaaS, API Management, REST API's
+- - **Development Tools**: VSCode, Jupyter Notebook, GitHub
 
-## Projects
+## 🛠️ Projects
 
 - **AI Assistant**: Developed an AI assistant leveraging React, OpenAI, RAG, and Hugging Face for answering targeted questions.
 - **University Chatbot System**: Created a sophisticated chatbot system to streamline communication processes at Brigham Young University-Idaho.
