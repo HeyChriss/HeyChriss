@@ -17,6 +17,10 @@ I am a passionate Software Engineering student at **Brigham Young University - I
 
 ## 🛠️ Experience
 
+### Machine Learning TA
+- Guided students in understanding key machine learning concepts, including supervised and unsupervised learning, neural networks, computer vision, and optimization techniques across +10 modules
+- Conducted weekly lab sessions, graded assignments, and provided constructive feedback
+
 ### AI Assistant Developer Intern | Your Life Legacy
 - Advised in the development and deployment of a TTS AI assistant to support company processes and increase productivity by 40%.
 - Aimed to synthesizing the AI assistant with existing systems and platforms to automate tasks for 20 employees.
