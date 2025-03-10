@@ -52,7 +52,7 @@ I am a passionate Software Engineering student at **Brigham Young University - I
 
 ![Chris's commit stats](https://github-readme-stats.vercel.app/api?username=HeyChriss&theme=algolia&show_icons=true)
 
-[![Chris's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=HeyChriss&hide=html,scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/roger18gm)
+[![Chris's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=HeyChriss&hide=html,scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/HeyChriss)
 
 ## Get in Touch
 
