@@ -50,6 +50,10 @@ I am a passionate Software Engineering student at **Brigham Young University - I
 - **Educational App**: Led a team to develop an "Order of Operations" app using Python, Kotlin, and Android Studio.
 - **Web Development**: Built a Django and JavaScript-based web app for grade analysts, improving the work environment and reporting accuracy.
 
+![Chris's commit stats](https://github-readme-stats.vercel.app/api?username=HeyChriss&theme=algolia&show_icons=true)
+
+[![Chris's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=HeyChriss&hide=html,scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/roger18gm)
+
 ## Get in Touch
 
 - 📫 Email: [mij17001@byui.edu](mailto:mij17001@byui.edu)
