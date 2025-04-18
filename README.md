@@ -5,7 +5,7 @@ I am a passionate Software Engineering student at **Brigham Young University - I
 
 - 🎓 **Education**: Bachelor of Science in Computer Software Engineering (Expected Graduation: April 2025)
 - 💻 **Minor**: Computer Information Technology
-- 🎯 **GPA**: 3.77
+- 🎯 **GPA**: 3.8
 - 🚀 **Interests**: Generative AI, Software Development, Automation, Web Development, Deep Learning, Neural Networks
 
 - I'm a passionate developer in artificial intelligence and data science. My focus areas in AI include but are not limited to:
