@@ -1,3 +1,5 @@
+| ![Chris's commit stats](https://github-readme-stats.vercel.app/api?username=HeyChriss&theme=algolia&count_private=true&show_icons=true)     |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyChriss&theme=algolia&layout=compact) | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HeyChriss) <a href="https://www.linkedin.com/in/christianmijangos5454">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
+| ---- | ---- | ---- |
 # Hi, I'm Chris 👋
 ## 🚀 About Me
 
@@ -50,13 +52,11 @@ I am a passionate Software Engineering student at **Brigham Young University - I
 - **Educational App**: Led a team to develop an "Order of Operations" app using Python, Kotlin, and Android Studio.
 - **Web Development**: Built a Django and JavaScript-based web app for grade analysts, improving the work environment and reporting accuracy.
 
-![Chris's commit stats](https://github-readme-stats.vercel.app/api?username=HeyChriss&theme=algolia&show_icons=true)
-
-[![Chris's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=HeyChriss&hide=html,scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/HeyChriss)
-
 ## Get in Touch
 
 - 📫 Email: [mij17001@byui.edu](mailto:mij17001@byui.edu)
 - 🌐 Visit my portfolio: [heychriss.com](https://heychriss.com)
 
 I am always eager to collaborate on new projects and contribute to open-source communities. Feel free to reach out!
+
+<img src="https://github-profile-trophy.vercel.app/?username=HeyChriss&theme=juicyfresh&no-bg=true" />
