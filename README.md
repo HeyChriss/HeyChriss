@@ -1,4 +1,5 @@
-| ![Chris's commit stats](https://github-readme-stats.vercel.app/api?username=HeyChriss&theme=algolia&count_private=true&show_icons=true)     |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyChriss&theme=algolia&layout=compact) | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HeyChriss.HeyChriss) <a href="https://www.linkedin.com/in/christianmijangos5454">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
+![banner](banner2.png) 
+|![Chris's commit stats](https://github-readme-stats.vercel.app/api?username=HeyChriss&theme=algolia&count_private=true&show_icons=true)     |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyChriss&theme=algolia&layout=compact) | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HeyChriss.HeyChriss) <a href="https://www.linkedin.com/in/christianmijangos5454">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
 | ---- | ---- | ---- |
 # Hi, I'm Chris 👋
 ## 🚀 About Me
