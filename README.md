@@ -1,17 +1,17 @@
 ![banner](banner2.png) 
 |![Chris's commit stats](https://github-readme-stats.vercel.app/api?username=HeyChriss&theme=algolia&count_private=true&show_icons=true)     |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyChriss&theme=algolia&layout=compact) | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HeyChriss.HeyChriss) <a href="https://www.linkedin.com/in/christianmijangos5454">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
 | ---- | ---- | ---- |
-# Hi, I'm Chris 👋
-## 🚀 About Me
+# Hi, I'm Chris 
+##  About Me
 
-I am a passionate Software Engineering student at **Brigham Young University - Idaho**, specializing in **Software Design** and **Machine Learning and AI**. I am skilled in developing scalable software solutions, automating processes, and creating engaging user experiences.
+I am a Master's student at **Brigham Young University**, specializing in **AI** and **Machine Learning**. I am skilled in developing scalable software solutions, automating processes, and creating engaging user experiences.
 
-- 🎓 **Education**: Bachelor of Science in Computer Software Engineering (Expected Graduation: April 2025)
-- 💻 **Minor**: Computer Information Technology
+- 🎓 **Education**: MS in Computer Science with an emphasis in AI and ML 
+- 💻 **Undergrad**: BS in Software Engineering
 - 🎯 **GPA**: 3.8
 - 🚀 **Interests**: Generative AI, Software Development, Automation, Web Development, Deep Learning, Neural Networks
 
-- I'm a passionate developer in artificial intelligence and data science. My focus areas in AI include but are not limited to:
+- I'm a passionate developer in artificial intelligence and data science. My focus areas in AI include, but are not limited to:
 - 🖼️ Computer Vision & Image Processing
 - 🗣️ Natural Language Processing
 - 🎮 RAG models and Agents
@@ -48,6 +48,10 @@ I am a passionate Software Engineering student at **Brigham Young University - I
 
 ## 🛠️ Projects
 
+- **DrippedUp**: Full-stack web application designed to revolutionize how users choose their outfits using SNNs.
+- **Multy Agent Researcher**: Designed to assist with research tasks using LangChain and various specialized tools with different agents and an orchestrator.
+- **Accent Detector**: Built with Streamlit and transformers that can analyze speech accents from audio files or video URLs.
+- **SumAI**: SumAI is a Google Chrome extension that transforms any website into an interactive knowledge source..
 - **AI Assistant**: Developed an AI assistant leveraging React, OpenAI, RAG, and Hugging Face for answering targeted questions.
 - **University Chatbot System**: Created a sophisticated chatbot system to streamline communication processes at Brigham Young University-Idaho.
 - **Educational App**: Led a team to develop an "Order of Operations" app using Python, Kotlin, and Android Studio.
@@ -55,7 +59,7 @@ I am a passionate Software Engineering student at **Brigham Young University - I
 
 ## Get in Touch
 
-- 📫 Email: [mij17001@byui.edu](mailto:mij17001@byui.edu)
+- 📫 Email: [heychris@byu.edu](mailto:heychris@byu.edu)
 - 🌐 Visit my portfolio: [heychriss.com](https://heychriss.com)
 
 I am always eager to collaborate on new projects and contribute to open-source communities. Feel free to reach out!
