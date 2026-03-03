@@ -1,61 +1,114 @@
 ![banner](banner2.png) 
-|![Chris's commit stats](https://github-stats-extended.vercel.app/api/?username=heychriss&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Chris%27'+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)     |   ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=heychriss&layout=pie&langs_count=4&theme=calm) | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HeyChriss.HeyChriss) <a href="https://www.linkedin.com/in/christianmijangos5454">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
+|![Chris's commit stats](https://github-stats-extended.vercel.app/api/?username=heychriss&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Chris%27+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)     |   ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=heychriss&layout=pie&langs_count=4&theme=calm) | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HeyChriss.HeyChriss) <a href="https://www.linkedin.com/in/christianmijangos5454">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
 | ---- | ---- | ---- |
-# Hi, I'm Chris 
-##  About Me
+# Hi, I'm Chris  
 
-I am a Master's student at **Brigham Young University**, specializing in **AI** and **Machine Learning**. I am skilled in developing scalable software solutions, automating processes, and creating engaging user experiences.
+## About Me
 
-- 🎓 **Education**: MS in Computer Science with an emphasis in AI and ML 
-- 💻 **Undergrad**: BS in Software Engineering
-- 🎯 **GPA**: 3.8
-- 🚀 **Interests**: Generative AI, Software Development, Automation, Web Development, Deep Learning, Neural Networks
+I am a Master’s student in **Computer Science (AI/ML)** at **Brigham Young University** (GPA: 4.00) with a background in **Software Engineering** (GPA: 3.87).
 
-- I'm a passionate developer in artificial intelligence and data science. My focus areas in AI include, but are not limited to:
-- 🖼️ Computer Vision & Image Processing
-- 🗣️ Natural Language Processing
-- 🎮 RAG models and Agents
-- 🤖 Multi-modal AI and Chatbots
-- 🧠 Machine Learning and Deep Learning
+I specialize in building **production-grade AI systems**, designing **LLM-powered applications**, and deploying **scalable ML infrastructure** that integrates with enterprise environments.
+
+I focus on delivering measurable impact through:
+
+- ⚙️ AI system architecture & deployment  
+- 🤖 RAG pipelines & AI agents  
+- 🧠 Model fine-tuning & LLM inference  
+- ☁️ Cloud-based ML infrastructure  
+- 🔁 Automation & enterprise integration  
+
+---
 
 ## 🛠️ Experience
 
-### Machine Learning TA
-- Guided students in understanding key machine learning concepts, including supervised and unsupervised learning, neural networks, computer vision, and optimization techniques across +10 modules
-- Conducted weekly lab sessions, graded assignments, and provided constructive feedback
+### Student AI Architect | Brigham Young University (Sep 2025 – Present)
+- Architect and maintain Linux-based AI infrastructure and deployment pipelines serving 35,000+ students  
+- Lead end-to-end AI implementations from design to production across cross-functional teams  
+- Fine-tune and deploy models that improved system performance by 40%  
+- Support scalable AI applications integrated into university systems  
 
-### AI Assistant Developer Intern | Your Life Legacy
-- Advised in the development and deployment of a TTS AI assistant to support company processes and increase productivity by 40%.
-- Aimed to synthesizing the AI assistant with existing systems and platforms to automate tasks for 20 employees.
+### AI Assistant Engineer – Software Student Engineer | BYU-Idaho (Apr 2021 – Jul 2025)
+- Designed and implemented API management solutions integrating enterprise systems and OpenAI connectors  
+- Built workflow automation systems supporting 200+ IT employees  
+- Automated 50+ operational processes weekly through event-driven data pipelines  
+- Delivered production AI-assisted tools integrated into institutional infrastructure  
 
-### Process Automation Analyst | Brigham Young University - Idaho
-- Designed and implemented API Management solutions, integrating enterprise systems to enhance productivity for over 200 IT employees.
-- Automated over 50 operations weekly using a codeless visual flow builder for data manipulation and action-triggering.
+### AI Assistant Developer Intern | Your Life Legacy (Sep 2024 – Dec 2024)
+- Contributed to development and deployment of a TTS AI assistant  
+- Increased organizational productivity by 40% through AI-driven automation  
+- Integrated AI systems into internal business workflows  
 
-### IT Operations Intern | The Church of Jesus Christ of Latter-Day Saints
-- Managed 10 to 15 incidents per day during a migration from VMware to Hyper.
-- Monitored system activities for outages and optimized performance using tools like Meraki, AKIPS, and AWS.
+### IT Operations Intern | The Church of Jesus Christ of Latter-Day Saints (Jan 2023 – Apr 2023)
+- Managed infrastructure incidents during virtualization migration (VMware → Hyper)  
+- Monitored performance and outages using AWS, Meraki, and AKIPS  
+- Supported high-availability enterprise systems  
 
-## 💻 Skills
+---
 
-- **Programming Languages**: Python, C++, C#
-- **AI/ML Frameworks**: PyTorch, TensorFlow, Transformers, LangChain, OpenAI GPT, LangGraph, Hugging Face
-- **Software Design Principles**: Abstraction, Polymorphism, Inheritance, Scalable Code Development
-- **Version Control**: Git
-- **Cloud Platforms**: AWS (Amazon Web Services)
-- **Automation & Integration**: iPaaS, API Management, REST API's
-- - **Development Tools**: VSCode, Jupyter Notebook, GitHub
+## 💻 Technical Skills
 
-## 🛠️ Projects
+### Languages
+Python, C++, C#, Kotlin, JavaScript (React)
 
-- **DrippedUp**: Full-stack web application designed to revolutionize how users choose their outfits using SNNs.
-- **Multy Agent Researcher**: Designed to assist with research tasks using LangChain and various specialized tools with different agents and an orchestrator.
-- **Accent Detector**: Built with Streamlit and transformers that can analyze speech accents from audio files or video URLs.
-- **SumAI**: SumAI is a Google Chrome extension that transforms any website into an interactive knowledge source..
-- **AI Assistant**: Developed an AI assistant leveraging React, OpenAI, RAG, and Hugging Face for answering targeted questions.
-- **University Chatbot System**: Created a sophisticated chatbot system to streamline communication processes at Brigham Young University-Idaho.
-- **Educational App**: Led a team to develop an "Order of Operations" app using Python, Kotlin, and Android Studio.
-- **Web Development**: Built a Django and JavaScript-based web app for grade analysts, improving the work environment and reporting accuracy.
+### AI / ML
+PyTorch, TensorFlow, Transformers  
+RAG architectures, AI agents, NLP, Deep Learning, Computer Vision  
+LLM fine-tuning, inference optimization, model evaluation  
+
+### AI Tooling & Orchestration
+LangChain, LangGraph, LangSmith  
+OpenAI, Hugging Face, Llama  
+Pydantic, FastAPI  
+
+### Data & Processing
+NumPy, Pandas, Polars, PySpark  
+Databricks  
+
+### Cloud & Infrastructure
+AWS, Azure  
+Docker, CI Pipelines  
+REST APIs, Express.js  
+Linux environments  
+
+### Automation & Integration
+n8n, Windmill  
+Enterprise API integrations  
+Event-driven workflow automation  
+
+---
+
+## 🛠️ Key Projects
+
+### AI Outfit Picker (Production ML System)
+- Built an end-to-end AI wardrobe application with two custom-trained ML models  
+- Designed full ML pipeline: preprocessing, training, evaluation, deployment  
+- Stack: React/Vue, FastAPI, custom model serving  
+- Focused on scalable inference and modular architecture  
+
+### Multi-Agent Research Assistant
+- Developed a multi-agent AI system to automate hypothesis generation, visualization, and code synthesis  
+- Increased research productivity by 60%  
+- Built with LangChain, Pydantic, and structured agent orchestration  
+
+### AI Assistant (RAG-Based System)
+- Developed a production-ready assistant using React, OpenAI, and RAG architecture  
+- Implemented vector retrieval, context management, and tool augmentation  
+
+### SumAI (Chrome Extension)
+- Built a browser extension that converts websites into interactive knowledge sources  
+- Applied LLM-driven summarization and contextual querying  
+
+---
+
+## What I Bring to AI Engineering Teams
+
+- Experience shipping AI systems to real users (35,000+ scale environment)  
+- Strong foundation in software engineering principles and scalable architecture  
+- Practical experience with LLM orchestration, RAG systems, and AI agents  
+- Proven impact through automation and measurable productivity gains  
+- Ability to move from research prototypes to production deployment  
+
+---
 
 ## Get in Touch
 
@@ -64,4 +117,4 @@ I am a Master's student at **Brigham Young University**, specializing in **AI** 
 
 I am always eager to collaborate on new projects and contribute to open-source communities. Feel free to reach out!
 
-<img src="https://stats.hyo.dev/api/github-trophies?login=heychriss" />
+![GitHub Trophies](https://stats.hyo.dev/api/github-trophies?login=heychriss&format=png)
