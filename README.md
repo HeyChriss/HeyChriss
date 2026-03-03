@@ -1,5 +1,5 @@
 ![banner](banner2.png) 
-|![Chris's commit stats](https://github-readme-stats.vercel.app/api?username=HeyChriss&theme=algolia&count_private=true&show_icons=true)     |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyChriss&theme=algolia&layout=compact) | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HeyChriss.HeyChriss) <a href="https://www.linkedin.com/in/christianmijangos5454">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
+|![Chris's commit stats](https://github-stats-extended.vercel.app/api/?username=heychriss&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)     |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyChriss&theme=algolia&layout=compact) | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HeyChriss.HeyChriss) <a href="https://www.linkedin.com/in/christianmijangos5454">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
 | ---- | ---- | ---- |
 # Hi, I'm Chris 
 ##  About Me
