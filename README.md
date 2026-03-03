@@ -64,4 +64,4 @@ I am a Master's student at **Brigham Young University**, specializing in **AI** 
 
 I am always eager to collaborate on new projects and contribute to open-source communities. Feel free to reach out!
 
-<img src="https://github-profile-trophy.vercel.app/?username=HeyChriss&theme=juicyfresh&no-bg=true" />
+<img src="https://stats.hyo.dev/api/github-trophies?login=heychriss" />
